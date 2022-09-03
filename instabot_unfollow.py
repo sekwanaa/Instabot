@@ -53,7 +53,8 @@ def main():
         while i > 0:
             i -= 1
             #go to profile page with who you are following
-            driver.get('https://www.instagram.com/chinkoman88rules/following/')
+            #please insert your username in <your username>
+            driver.get('https://www.instagram.com/<your username>/following/')
 
             sleep(randint(22,28))
 

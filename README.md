@@ -18,4 +18,4 @@ This was made in Python 3.10
 Credits:
 
 This is a modified version of a code written by Fabio Neves. Original code can be found here:
-https://towardsdatascience.com/increase-your-instagram-followers-with-a-simple-python-bot-fde048dce20d
+<https://towardsdatascience.com/increase-your-instagram-followers-with-a-simple-python-bot-fde048dce20d>

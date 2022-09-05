@@ -5,7 +5,7 @@ General purpose:
 The purpose of this bot is to help grow your account if that is what you desire. The bot will
 follow users in the hashtags that you choose. You can modify the code to change how many followers you
 want to cap it at if you wish. Additionally, there is an unfollow bot to go through your following list
-and unfollow asccounts if you wish.
+and unfollow accounts if you wish.
 
 Requirements:
 
